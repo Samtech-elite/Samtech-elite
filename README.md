@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://elitesamttech.co.ke">
-    <img src="https://raw.githubusercontent.com/Samtech-elite/.github/main/profile/banner.png" alt="SamTech Elite Solutions" width="100%" />
+    <img src="https://elitesamttech.co.ke/_app/immutable/assets/favicon.D71VhRIx.png" alt="SamTech Elite Solutions" width="100%" />
   </a>
   <br>
   <h1>🚀 SamTech Elite Solutions</h1>
